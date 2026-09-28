@@ -1,4 +1,4 @@
-## Hi, I'm Lucas 👋🇧🇷
+## Hi, I'm Lucas 👋<img src="https://flagcdn.com/w20/br.png" alt="Brazil" width="24">
 
 Information Systems student (Análise e Desenvolvimento de Sistemas) at Universidade Cruzeiro do Sul, expected graduation in 2028.
 
